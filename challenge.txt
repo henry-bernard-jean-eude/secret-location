@@ -1,4 +1,6 @@
 Here is the challenge :
-To find the right letter, you must decode the following string
+To find the right letter, you must decode the following string 
 
-33372E3237373639312C2D3131352E383136363532
+33372E3237373639312C2D3131352E383136363532 (hint:the result must be a string (ascii) and not a number) 
+
+You will then find a special location related to the github. 
